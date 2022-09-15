@@ -1,0 +1,46 @@
+.mt-5px {
+    padding-top: 40px;
+}
+
+.rd {
+    padding-top: 30px;
+}
+
+.ht {}
+
+body {
+    background-color: black;
+}
+
+/*tr th {
+    border: 2px solid;
+    border-color: blue;
+    width: 250px;
+    color: red;
+}*/
+
+.body {
+    background-color: black;
+}
+
+#form {
+    border: 2px solid;
+    border-color: blue;
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+.hy:hover {
+    border: 3px solid purple;
+    color: red;
+}
+
+.jk:hover {
+    border: 3px solid purple;
+    color: red;
+}
+
+.OP:hover {
+    border: 3px solid purple;
+    color: red;
+}
